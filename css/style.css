@@ -16,10 +16,16 @@ nav {
   padding: 10px;
 }
 
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 main {
   background-color: #f8f9fa;
   font-size: 18px;
   padding: 20px;
+  color: #212529; 
 }
 
 footer {
@@ -42,5 +48,9 @@ h1 {
 
 p {
   line-height: 1.6;
-  color: #212529;
+  color: #212529; 
+}
+
+a {
+  color: #0044cc;
 }
